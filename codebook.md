@@ -3,8 +3,8 @@
 
 These variables identify the unique subject/activity pair the variables relate to:
 
-1. Subject: the integer subject ID.
-2. Activity: the string activity name:
+* Subject: the integer subject ID.
+* Activity: the string activity name:
     1. Walking
     2. Walking Upstairs
     3. Walking Downstairs
@@ -13,7 +13,7 @@ These variables identify the unique subject/activity pair the variables relate t
     6. Laying
 
 
-Measurement Means
+##Measurement Means
 
 All variables are the mean of a measurement for each subject and activity. This is indicated by the initial Mean in the variable name. All values are floating point numbers.
 

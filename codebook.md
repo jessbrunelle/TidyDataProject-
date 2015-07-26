@@ -25,40 +25,40 @@ All variables are the mean of a measurement for each subject and activity. This 
    *  MeanTimeBodyAccStdDevX
    *  MeanTimeBodyAccStdDevY
    *  MeanTimeBodyAccStdDevZ
-3. Time domain gravity acceleration mean along X, Y, and Z:
-   1. MeanTimeGravityAccMeanX
-   2. MeanTimeGravityAccMeanY
-   3. MeanTimeGravityAccMeanZ
-4. Time domain gravity acceleration standard deviation along X, Y, and Z:
-   1.MeanTimeGravityAccStdDevX
-   2.MeanTimeGravityAccStdDevY
-   3. MeanTimeGravityAccStdDevZ
-5. Time domain body jerk mean along X, Y, and Z:
-   1.MeanTimeBodyAccJerkMeanX
-   2.MeanTimeBodyAccJerkMeanY
-   3. MeanTimeBodyAccJerkMeanZ
-6. Time domain body jerk standard deviation along X, Y, and Z:
-   1.MeanTimeBodyAccJerkStdDevX
-   2.MeanTimeBodyAccJerkStdDevY
-   3. MeanTimeBodyAccJerkStdDevZ
-7. Time domain gyroscope mean along X, Y, and Z:
-   1.MeanTimeBodyGyroMeanX
-   2. MeanTimeBodyGyroMeanY
-   3. MeanTimeBodyGyroMeanZ
-8. Time domain gyroscope standard deviation along X, Y, and Z:
-   1.MeanTimeBodyGyroStdDevX
-   2. MeanTimeBodyGyroStdDevY
-   3. MeanTimeBodyGyroStdDevZ
-9. Time domain gyroscope jerk mean along X, Y, and Z:
-   1. MeanTimeBodyGyroJerkMeanX
-   2. MeanTimeBodyGyroJerkMeanY
-   3. MeanTimeBodyGyroJerkMeanZ
-10. Time domain gyroscope jerk standard deviation along X, Y, and Z:
-   1. MeanTimeBodyGyroJerkStdDevX
-   2, MeanTimeBodyGyroJerkStdDevY
-   3. MeanTimeBodyGyroJerkStdDevZ
+* Time domain gravity acceleration mean along X, Y, and Z:
+   *  MeanTimeGravityAccMeanX
+   *  MeanTimeGravityAccMeanY
+   *  MeanTimeGravityAccMeanZ
+* Time domain gravity acceleration standard deviation along X, Y, and Z:
+   * MeanTimeGravityAccStdDevX
+   * MeanTimeGravityAccStdDevY
+   *  MeanTimeGravityAccStdDevZ
+* Time domain body jerk mean along X, Y, and Z:
+   * MeanTimeBodyAccJerkMeanX
+   * MeanTimeBodyAccJerkMeanY
+   *  MeanTimeBodyAccJerkMeanZ
+* Time domain body jerk standard deviation along X, Y, and Z:
+   * MeanTimeBodyAccJerkStdDevX
+   * MeanTimeBodyAccJerkStdDevY
+   * MeanTimeBodyAccJerkStdDevZ
+* Time domain gyroscope mean along X, Y, and Z:
+   * MeanTimeBodyGyroMeanX
+   *  MeanTimeBodyGyroMeanY
+   *  MeanTimeBodyGyroMeanZ
+*  Time domain gyroscope standard deviation along X, Y, and Z:
+   * MeanTimeBodyGyroStdDevX
+   * MeanTimeBodyGyroStdDevY
+   * MeanTimeBodyGyroStdDevZ
+* Time domain gyroscope jerk mean along X, Y, and Z:
+   * MeanTimeBodyGyroJerkMeanX
+   * MeanTimeBodyGyroJerkMeanY
+   * MeanTimeBodyGyroJerkMeanZ
+*  Time domain gyroscope jerk standard deviation along X, Y, and Z:
+   *  MeanTimeBodyGyroJerkStdDevX
+   *  MeanTimeBodyGyroJerkStdDevY
+   * MeanTimeBodyGyroJerkStdDevZ
 *Time domain body acceleration magnitude mean:
-   *MeanTimeBodyAccMagMean
+   * MeanTimeBodyAccMagMean
 *Time domain body acceleration magnitude standard deviation:
    *MeanTimeBodyAccMagStdDev
 *Time domain gravity acceleration magnitude mean:

@@ -21,14 +21,14 @@ All variables are the mean of a measurement for each subject and activity. This 
     1.MeanTimeBodyAccMeanX 
     2. MeanTimeBodyAccMeanY 
     3. MeanTimeBodyAccMeanZ
-*Time domain body acceleration standard deviation along X, Y, and Z:
-   *MeanTimeBodyAccStdDevX
-   *MeanTimeBodyAccStdDevY
-   *MeanTimeBodyAccStdDevZ
-*Time domain gravity acceleration mean along X, Y, and Z:
-   *MeanTimeGravityAccMeanX
-   *MeanTimeGravityAccMeanY
-   *MeanTimeGravityAccMeanZ
+2. Time domain body acceleration standard deviation along X, Y, and Z:
+   1. MeanTimeBodyAccStdDevX
+   2. MeanTimeBodyAccStdDevY
+   3. MeanTimeBodyAccStdDevZ
+3. Time domain gravity acceleration mean along X, Y, and Z:
+   1. MeanTimeGravityAccMeanX
+   2. MeanTimeGravityAccMeanY
+   3. MeanTimeGravityAccMeanZ
 *Time domain gravity acceleration standard deviation along X, Y, and Z:
    *MeanTimeGravityAccStdDevX
    *MeanTimeGravityAccStdDevY

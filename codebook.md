@@ -17,8 +17,8 @@ These variables identify the unique subject/activity pair the variables relate t
 
 All variables are the mean of a measurement for each subject and activity. This is indicated by the initial Mean in the variable name. All values are floating point numbers.
 
-1. Time domain body acceleration mean along X, Y, and Z
-    1.MeanTimeBodyAccMeanX 
+*  Time domain body acceleration mean along X, Y, and Z
+    * MeanTimeBodyAccMeanX 
     2. MeanTimeBodyAccMeanY 
     3. MeanTimeBodyAccMeanZ
 2. Time domain body acceleration standard deviation along X, Y, and Z:

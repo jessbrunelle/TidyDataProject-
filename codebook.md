@@ -5,12 +5,12 @@ These variables identify the unique subject/activity pair the variables relate t
 
 * Subject: the integer subject ID.
 * Activity: the string activity name:
-    1. Walking
-    2. Walking Upstairs
-    3. Walking Downstairs
-    4. Sitting
-    5. Standing
-    6. Laying
+    * Walking
+    * Walking Upstairs
+    * Walking Downstairs
+    * Sitting
+    * Standing
+    * Laying
 
 
 ##Measurement Means

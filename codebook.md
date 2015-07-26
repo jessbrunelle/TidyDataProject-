@@ -1,13 +1,18 @@
+#Code Book for Getting and Cleaning Data Course Project
+##Subject and Activity
+
 These variables identify the unique subject/activity pair the variables relate to:
 
-##Subject: the integer subject ID.
-Activity: the string activity name:
-Walking
-Walking Upstairs
-Walking Downstairs
-Sitting
-Standing
-Laying
+1. Subject: the integer subject ID.
+2. Activity: the string activity name:
+    1. Walking
+    2. Walking Upstairs
+    3. Walking Downstairs
+    4. Sitting
+    5. Standing
+    6. Laying
+
+
 Measurement Means
 
 All variables are the mean of a measurement for each subject and activity. This is indicated by the initial Mean in the variable name. All values are floating point numbers.
